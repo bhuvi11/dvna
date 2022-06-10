@@ -1,5 +1,7 @@
 # Damn Vulnerable NodeJS Application (DVNA) 
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3af3f51e-11d8-4e89-98dd-f8a67fd4cf53.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/dvna?orgId=560723739106)  
+
 ![dvna-logo](docs/resources/dvna.png)
 
 Damn Vulnerable NodeJS Application (DVNA) is a simple NodeJS application to demonstrate [**OWASP Top 10 Vulnerabilities**](https://www.owasp.org/index.php/Top_10-2017_Top_10) and guide on fixing and avoiding these vulnerabilities. The [fixes](https://github.com/appsecco/dvna/tree/fixes) branch will contain fixes for the vulnerabilities. Fixes for vunerabilities OWASP Top 10 2017 vulnerabilities at [fixes-2017](https://github.com/appsecco/dvna/tree/fixes-2017) branch.
